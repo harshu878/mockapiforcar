@@ -1,0 +1,23 @@
+{
+  "name": "mockapiforcar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshu878/mockapiforcar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshu878/mockapiforcar/issues"
+  },
+  "homepage": "https://github.com/harshu878/mockapiforcar#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1"
+  }
+}
